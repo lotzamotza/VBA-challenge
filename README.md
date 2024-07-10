@@ -1,3 +1,2 @@
 # VBA-challenge
-I received 3rd party tutoring for this assignment. I got a lot of help with establishing the functionality of the loops and arrays to generate the final results. I was able to declare, set and reference variables, workbooks and worksheets without help.
-The .bas files are located in the "master" branch of this repository. 
+Objective for this assignment was to process stock data from two workbooks. The code calculates quarterly changes, percent changes and total volumes for each ticker symbol across multiple sheets identifying top performing stocks with the highest percentage increase and decrease based on those quarterly changes. 
